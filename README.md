@@ -1,2 +1,0 @@
-# ReactProjects
-## Ishaan Project
